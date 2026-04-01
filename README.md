@@ -2,6 +2,14 @@
 
 Restored source tree for `@anthropic-ai/claude-code@2.1.88`, reconstructed from the published `cli.js.map` `sourcesContent`.
 
+## Copyright And Usage Notice
+
+- Copyright and other applicable rights in Anthropic first-party source code remain with Anthropic, PBC.
+- This repository is an unofficial restored reference copy provided only for study, research, and archival learning purposes.
+- This repository is not affiliated with, endorsed by, or maintained by Anthropic.
+- Do not use this repository or its contents for commercial purposes.
+- Third-party code included in the restored output remains subject to the rights and licenses of its respective authors.
+
 ## What This Repository Contains
 
 - `raw/package/cli.js`: bundled CLI from the published npm package
